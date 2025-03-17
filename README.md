@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mathieu PATURAL
 
-I'm a tech enthusiast passionate about **new technologies, cybersecurity, and data**.  
+I'm a tech enthusiast student passionate about **new technologies, cybersecurity, and data**.  
 Currently studying at **UTBM**, I love exploring **AI, software engineering, and security**.  
-Also, a **tennis lover 🎾** and **self-employed entrepreneur** at **TVR – A Rap Media 🎤**.
+Also a **tennis lover 🎾** and **self-employed entrepreneur** at **TVR – a media RAP🎤**.
 
 - 🌐 My portfolio website: (Coming soon)
   
